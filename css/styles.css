@@ -18,3 +18,13 @@ main {
     max-width: 800px;
     margin: 0 auto;
 }
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 15px;
+}
