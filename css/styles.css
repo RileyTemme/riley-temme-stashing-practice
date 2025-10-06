@@ -28,3 +28,13 @@ nav ul {
 nav li {
     margin: 0 15px;
 }
+section {
+    margin: 30px 0;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #555;
+}
