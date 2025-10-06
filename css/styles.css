@@ -38,3 +38,10 @@ section {
 h2 {
     color: #555;
 }
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
